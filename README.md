@@ -1,6 +1,7 @@
-# Nuxt 3 Minimal Starter
+# Creative Minimal Nuxt / Three.js Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Look at the [Three.js documentation](https://threejs.org/docs/) to learn more.
 
 ## Setup
 
