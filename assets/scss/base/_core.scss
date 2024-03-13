@@ -1,0 +1,42 @@
+@use "../utils/variables" as *;
+
+html {
+  position: fixed;
+  background-color: $anthracite;
+  font-family: $ff-variable, Arial, sans-serif;
+  color: $light;
+  overscroll-behavior: none;
+}
+
+#container {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  text-transform: uppercase;
+  background-color: $anthracite;
+  min-width: 300px;
+}
+
+#gl {
+  z-index: -1;
+  position: fixed;
+}
+
+a {
+  all: unset;
+  -webkit-user-drag: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+* {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  margin: 0;
+  touch-action: none;
+  -webkit-tap-highlight-color: transparent;
+}

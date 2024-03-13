@@ -1,0 +1,12 @@
+@use "../utils/variables" as *;
+
+%flex-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+%flex-center {
+  display: flex;
+  place-items: center;
+}
