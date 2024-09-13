@@ -1,5 +1,4 @@
 ## Nuxt / Three.js Basic Template 
-- (In Progress)
 
 - [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction).
 - [Three.js documentation](https://threejs.org/docs/).
